@@ -1,0 +1,10 @@
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\bin\Debug\C-Sharp Final.exe.config
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\bin\Debug\C-Sharp Final.exe
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\bin\Debug\C-Sharp Final.pdb
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C-Sharp Final.csproj.AssemblyReference.cache
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C_Sharp_Final.Form1.resources
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C_Sharp_Final.Properties.Resources.resources
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C-Sharp Final.csproj.GenerateResource.cache
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C-Sharp Final.csproj.CoreCompileInputs.cache
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C-Sharp Final.exe
+C:\Users\LAB\source\repos\C-Sharp Final\C-Sharp Final\obj\Debug\C-Sharp Final.pdb
